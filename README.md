@@ -3,6 +3,13 @@ A Lethal Company Overhaul Mod Scheduled for 2024
 
 Hey! This is a project made by me and a few of my friends to create an overhaul mod for Lethal Company.
 
+
+As of 12/20/23, The Alpha Releases are Patches to the game.
+
+
+
+
+
 Planned things:
 
 Multi Functional Teleporter
